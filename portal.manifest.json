@@ -1,0 +1,7 @@
+{
+    "identifier": "tree-generator",
+    "name": "Tree Generator",
+    "description": "Small app that allows creating tree diagrams using a custom syntax",
+    "homepage": "https://tree.cstoica.space/",
+    "hidden": false
+}
